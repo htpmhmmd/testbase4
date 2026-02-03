@@ -6,3 +6,4 @@ harakiri
 base
 b
 hulk
+kara
