@@ -12,3 +12,4 @@ sayı
 commit
 wwww
 game
+play
