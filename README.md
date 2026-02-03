@@ -8,3 +8,4 @@ b
 hulk
 kara
 de
+sayı
