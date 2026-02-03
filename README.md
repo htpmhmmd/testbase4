@@ -7,6 +7,7 @@ base
 b
 hulk
 kara
+test5
 de
 test4
 sayı
