@@ -17,3 +17,4 @@ look
 era
 araba
 car
+care
