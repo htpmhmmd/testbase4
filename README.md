@@ -8,6 +8,7 @@ b
 hulk
 kara
 de
+test4
 sayı
 commit
 wwww
