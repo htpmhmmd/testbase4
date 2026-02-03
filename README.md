@@ -9,3 +9,4 @@ hulk
 kara
 de
 sayı
+commit
