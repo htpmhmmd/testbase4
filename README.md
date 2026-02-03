@@ -13,3 +13,4 @@ commit
 wwww
 game
 play
+look
