@@ -8,6 +8,7 @@ b
 hulk
 kara
 test5
+opl
 de
 test4
 sayı
