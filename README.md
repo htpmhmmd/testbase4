@@ -10,3 +10,4 @@ kara
 de
 sayı
 commit
+wwww
