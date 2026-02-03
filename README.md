@@ -18,3 +18,4 @@ era
 araba
 car
 care
+soft
