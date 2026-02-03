@@ -11,3 +11,4 @@ de
 sayı
 commit
 wwww
+game
