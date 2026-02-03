@@ -11,6 +11,7 @@ test5
 de
 test4
 sayı
+gdbere
 commit
 wwww
 game
