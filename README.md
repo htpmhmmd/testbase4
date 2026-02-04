@@ -11,6 +11,7 @@ test5
 opl
 de
 test4
+fury
 sayı
 gdbere
 commit
