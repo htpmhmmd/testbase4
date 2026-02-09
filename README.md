@@ -10,6 +10,7 @@ kkkk
 hulk
 kara
 test5
+loko
 opl
 de
 dev.5.base
