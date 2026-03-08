@@ -6,6 +6,7 @@ harakiri
 base
 b
 kkkk
+gdgd
 gdd
 hulk
 kara
